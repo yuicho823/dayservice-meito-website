@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dayservice-meito.org/sitemap.xml
