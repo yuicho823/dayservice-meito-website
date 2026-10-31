@@ -1,2 +1,2 @@
 # dayservice-meito-website
-ヒラックス名東 公式サイト
+ケアリハ名東 公式サイト
